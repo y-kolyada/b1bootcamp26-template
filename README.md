@@ -20,7 +20,7 @@
 
 Эти три слова — **задание · запись · проверка** — повторяются на каждом занятии все восемь раз. Больше в курсе ничего нет.
 
-**Четвёртый файл, `potom.md`, не про работу, а про отказ от неё.** Хорошая мысль приходит не вовремя: записал одной строкой с причиной «почему не сейчас» — и пошёл дальше. Идея, которую не записал, возвращается в последний день словами «я же хотел…».
+**Пятый файл, `potom.md`, не про работу, а про отказ от неё.** Хорошая мысль приходит не вовремя: записал одной строкой с причиной «почему не сейчас» — и пошёл дальше. Идея, которую не записал, возвращается в последний день словами «я же хотел…».
 
 ### Номер в имени файла — это номер занятия
 
@@ -93,7 +93,7 @@ https://<твой-ник>.github.io/<твой-репозиторий>/
 
 **This is the starting point for a participant's product in the AI Bootcamp course.** Press **Use this template** to get your own repository with your own history.
 
-Five files, readable in full in one session: a page, a **task** you write before asking the AI, a **record** of what actually happened, and a **check** that answers green or red with no opinions. **The number in a filename is the session number** - `zadanie-1.md` and `zapis-1.md` are session one's pair, and each later session gets its own pair, copied from the last, so one task's history stays its own. Those three words - task, record, check - are the whole course, repeated eight times.
+Five files, readable in full in one session: a page, a **task** you write before asking the AI, a **record** of what actually happened, a **check** that answers green or red with no opinions, and **`potom.md`** - what you decided not to do yet, each line carrying why not now. **The number in a filename is the session number** - `zadanie-1.md` and `zapis-1.md` are session one's pair, and each later session gets its own pair, copied from the last, so one task's history stays its own. Those three words - task, record, check - are the whole course, repeated eight times.
 
 **What is deliberately absent:** the finished page (the AI makes it from your task), real tests (you write them in session 4), and CI (you add it in session 5, when publishing becomes conditional on green). `check.sh` is **green while proving almost nothing** - it is session 7's own specimen of that problem.
 
